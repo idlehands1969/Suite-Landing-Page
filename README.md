@@ -30,7 +30,7 @@ Users should be able to:
 
 ![mobile 375px](https://github.com/idlehands1969/Suite-Landing-Page/blob/3f84f4681af949e359f63fffb2a15f37dc1a47b9/screenshot-mobile.png)
 ![tablet 768px](https://github.com/idlehands1969/Suite-Landing-Page/blob/3f84f4681af949e359f63fffb2a15f37dc1a47b9/screenshot-tablet.png)
-![desktop 1440px](./screenshot-desktop.jpg)
+![desktop 1440px](https://github.com/idlehands1969/Suite-Landing-Page/blob/9ee8073959eeb8313ee29c54cc8b012809963663/screenshot-desktop.png)
 
 
 ### Links
