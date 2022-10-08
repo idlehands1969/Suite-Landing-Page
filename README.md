@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Screenshot
 
-![mobile 375px](./screenshot-mobile.png)
-![tablet 768px](./screenshot-tablet.jpg)
+![mobile 375px](https://github.com/idlehands1969/Suite-Landing-Page/blob/3f84f4681af949e359f63fffb2a15f37dc1a47b9/screenshot-mobile.png)
+![tablet 768px](https://github.com/idlehands1969/Suite-Landing-Page/blob/3f84f4681af949e359f63fffb2a15f37dc1a47b9/screenshot-tablet.png)
 ![desktop 1440px](./screenshot-desktop.jpg)
 
 
